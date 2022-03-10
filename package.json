@@ -1,0 +1,30 @@
+{
+  "name": "w3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diem13052001/W3_Band.git"
+  },
+  "keywords": [
+    "Band",
+    "W3-band"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diem13052001/W3_Band/issues"
+  },
+  "homepage": "https://github.com/Diem13052001/W3_Band#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
